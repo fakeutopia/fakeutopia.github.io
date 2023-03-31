@@ -6,12 +6,44 @@
         <description>Recent content in Tags on Feeyutopia</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 04 Mar 2023 22:49:17 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Mar 2023 11:24:17 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Films</title>
+        <link>https://feeyutopia.github.io/tags/films/</link>
+        <pubDate>Mon, 27 Mar 2023 11:24:17 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/tags/films/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tech</title>
+        <link>https://feeyutopia.github.io/tags/tech/</link>
+        <pubDate>Tue, 07 Mar 2023 09:30:11 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/tags/tech/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Hugo</title>
         <link>https://feeyutopia.github.io/tags/hugo/</link>
         <pubDate>Sat, 04 Mar 2023 22:49:17 +0300</pubDate>
         
         <guid>https://feeyutopia.github.io/tags/hugo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>申请</title>
+        <link>https://feeyutopia.github.io/tags/%E7%94%B3%E8%AF%B7/</link>
+        <pubDate>Mon, 05 Sep 2022 21:06:04 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/tags/%E7%94%B3%E8%AF%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Worries</title>
+        <link>https://feeyutopia.github.io/tags/worries/</link>
+        <pubDate>Sun, 07 Aug 2022 18:54:10 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/tags/worries/</guid>
         <description></description>
         </item>
         <item>
@@ -23,11 +55,11 @@
         <description></description>
         </item>
         <item>
-        <title>Films</title>
-        <link>https://feeyutopia.github.io/tags/films/</link>
-        <pubDate>Sun, 24 May 2020 17:02:19 +0300</pubDate>
+        <title>Books</title>
+        <link>https://feeyutopia.github.io/tags/books/</link>
+        <pubDate>Sun, 19 Dec 2021 19:34:21 +0300</pubDate>
         
-        <guid>https://feeyutopia.github.io/tags/films/</guid>
+        <guid>https://feeyutopia.github.io/tags/books/</guid>
         <description></description>
         </item>
         <item>

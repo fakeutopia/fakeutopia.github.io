@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://feeyutopia.github.io/categories/</loc>
-    <lastmod>2023-03-04T22:49:17+03:00</lastmod>
-  </url><url>
     <loc>https://feeyutopia.github.io/</loc>
-    <lastmod>2023-03-04T22:49:17+03:00</lastmod>
+    <lastmod>2023-03-28T10:34:03+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/post/</loc>
+    <lastmod>2023-03-28T10:34:03+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E7%AA%81%E7%84%B6%E8%8E%B7%E5%BE%97%E5%8A%9B%E9%87%8F/</loc>
+    <lastmod>2023-03-28T10:34:03+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/categories/</loc>
+    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/categories/entertainment/</loc>
+    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/films/</loc>
+    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/</loc>
+    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E6%88%98%E4%BA%89%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E4%BA%94%E6%98%9F%E7%BE%8E%E5%89%A7%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2023-03-24T10:53:53+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/markdown%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2023-03-07T09:30:11+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/tech/</loc>
+    <lastmod>2023-03-07T09:30:11+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/personal-blog-hugo-stack-theme-setup/</loc>
+    <lastmod>2023-03-06T22:41:53+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/tags/hugo/</loc>
     <lastmod>2023-03-04T22:49:17+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/hugo-setup-3-work-to-be-continued/</loc>
-    <lastmod>2023-03-04T22:49:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/post/</loc>
-    <lastmod>2023-03-04T22:49:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/tags/</loc>
     <lastmod>2023-03-04T22:49:17+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/categories/tech/</loc>
@@ -28,9 +52,6 @@
   </url><url>
     <loc>https://feeyutopia.github.io/p/hugo-setup-1-how-to-use-hugo-to-create-personal-blog/</loc>
     <lastmod>2023-03-04T13:42:48+08:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/about/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/find-the-things-youre-angry-for/</loc>
     <lastmod>2023-02-12T21:08:12+03:00</lastmod>
@@ -50,7 +71,7 @@
     <loc>https://feeyutopia.github.io/p/%E4%BB%8A%E5%A4%A9%E6%98%AF%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%80%E5%A4%A9/</loc>
     <lastmod>2022-09-05T21:06:04+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/categories/%E7%94%B3%E8%AF%B7/</loc>
+    <loc>https://feeyutopia.github.io/tags/%E7%94%B3%E8%AF%B7/</loc>
     <lastmod>2022-09-05T21:06:04+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%80%9D%E8%80%83/</loc>
@@ -62,7 +83,7 @@
     <loc>https://feeyutopia.github.io/categories/%E7%A7%91%E7%A0%94/</loc>
     <lastmod>2022-08-08T21:02:34+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/categories/worries/</loc>
+    <loc>https://feeyutopia.github.io/tags/worries/</loc>
     <lastmod>2022-08-07T18:54:10+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</loc>
@@ -143,7 +164,7 @@
     <loc>https://feeyutopia.github.io/p/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-12-19T19:34:21+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/categories/books/</loc>
+    <loc>https://feeyutopia.github.io/tags/books/</loc>
     <lastmod>2021-12-19T19:34:21+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80/</loc>
@@ -179,12 +200,6 @@
     <loc>https://feeyutopia.github.io/p/%E6%88%91%E6%9B%BE%E7%BB%8F%E7%9A%84idol%E8%AF%AD%E5%BD%95/</loc>
     <lastmod>2020-06-20T17:15:26+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/categories/entertainment/</loc>
-    <lastmod>2020-05-24T17:02:19+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/tags/films/</loc>
-    <lastmod>2020-05-24T17:02:19+03:00</lastmod>
-  </url><url>
     <loc>https://feeyutopia.github.io/p/%E7%BE%8E%E5%89%A7%E5%B7%85%E5%B3%B0the-wire%E8%A7%82%E5%90%8E%E6%84%9F/</loc>
     <lastmod>2020-05-24T17:02:19+03:00</lastmod>
   </url><url>
@@ -215,11 +230,15 @@
     <loc>https://feeyutopia.github.io/p/%E6%88%91%E9%83%BD%E5%A6%82%E4%BD%95%E5%9B%9E%E5%BF%86%E6%88%91-%E5%B8%A6%E7%9D%80%E7%AC%91%E6%88%96%E6%98%AF%E5%BE%88%E6%B2%89%E9%BB%98/</loc>
     <lastmod>2020-01-01T15:37:13+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95up-to-date/</loc>
     <lastmod>2020-01-01T00:30:48+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/death/</loc>
+  </url><url>
+    <loc>https://feeyutopia.github.io/about/</loc>
   </url><url>
     <loc>https://feeyutopia.github.io/search/</loc>
   </url>

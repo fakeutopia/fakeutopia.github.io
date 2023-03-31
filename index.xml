@@ -6,7 +6,207 @@
         <description>Recent content on Feeyutopia</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 04 Mar 2023 22:49:17 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Mar 2023 10:34:03 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>战争备忘录</title>
+        <link>https://feeyutopia.github.io/p/%E6%88%98%E4%BA%89%E5%A4%87%E5%BF%98%E5%BD%95/</link>
+        <pubDate>Mon, 27 Mar 2023 11:24:17 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/p/%E6%88%98%E4%BA%89%E5%A4%87%E5%BF%98%E5%BD%95/</guid>
+        <description>&lt;p&gt;历史不应该被忘记，相反，历史应该被铭记。
+ &lt;/p&gt;
+&lt;p&gt;在这个资源有限的星球上，当上帝也无法拯救贪婪的人类时，还有什么能够拯救？ Only War.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;1. 西线无战事 8/10 (2023.3.15) &lt;/p&gt;
+&lt;p&gt;当主角光环褪去，隐藏在黑暗角落的普通士兵拿起刺刀穿过他的心脏，他终于在停战前的最后一刻倒下了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/Screenshot%202023-03-15%20at%2023.18.44.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;西线无战事&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt; 
+2. 1917 9/10 (2022) &lt;/p&gt;
+&lt;p&gt;照明弹合着火光，橘而泛白的颜色给残垣断壁披上了一层美得不真实的残酷外衣。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/p2591356663.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;1917&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;3. 敦刻尔克 8/10 (2021)&lt;/p&gt;
+&lt;p&gt;4. 兄弟连 10/10 (2023.3.25)&lt;/p&gt;
+&lt;p&gt;有些人天生不适合杀戮，即使他已杀人无数。&lt;/p&gt;
+&lt;p&gt;幸运地是，Lieutenant Winters 从士兵升到了军官，拯救了自己的灵魂。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/7cad8560cdc5457ca6b1405221c0c4fd.gif&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Last shot&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5. 太平洋战争 10/10 (2023.3.27)&lt;/p&gt;
+&lt;p&gt;印象最深的就是Sledge战后回到家乡后，本可以穿上军装享受各种战争英雄的便利，但是他决定never ever wear the uniform again。&lt;/p&gt;
+&lt;p&gt;下面是一段他和战后一同归来的挚友的对话，放在这里，是引发我深思的一段话：&lt;/p&gt;
+&lt;p&gt;Sledge: I mean look at us, Sid. Sitting here at a dance, drinking punch, not a scratch on either of us. I mean what the hell are we doing here? And why did I end up back here when all those other fellas didn&amp;rsquo;t?&lt;/p&gt;
+&lt;p&gt;His friend: I thought that. Every guy back has thought that. But you&amp;rsquo;ve just got to pull yourself out of bed in the morning and get on with the day. You do that enough times in a row, you forget some things. For a while, anyway.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/Screenshot%202023-03-27%20at%2012.21.42.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Becoming idle&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;6. 拯救大兵瑞恩 8/10 (2021)&lt;/p&gt;
+&lt;p&gt;7. 血战钢锯岭，狂怒 8/10 (2021)&lt;/p&gt;
+&lt;p&gt;8. 狂怒 8/10 (2021)&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Markdown相关</title>
+        <link>https://feeyutopia.github.io/p/markdown%E7%9B%B8%E5%85%B3/</link>
+        <pubDate>Tue, 07 Mar 2023 09:30:11 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/p/markdown%E7%9B%B8%E5%85%B3/</guid>
+        <description>&lt;h2 id=&#34;插入图片---github--picgo&#34;&gt;插入图片 - Github + PicGo&lt;/h2&gt;
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+&lt;p&gt;Github可以用作图床，PicGo可以用来自动上传图片以及自动生成链接到剪切板。&lt;/p&gt;
+&lt;h3 id=&#34;github配置&#34;&gt;GitHub配置&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;先在GitHub创建一个public repo，例如 blog-image;&lt;/li&gt;
+&lt;li&gt;创建一个personal token，专门用来上传图片&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;picgo配置&#34;&gt;PicGo配置&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;PicGo下载：安装好Homebrew后，直接用命令行&lt;code&gt;brew install picgo --cask&lt;/code&gt;即可安装&lt;/li&gt;
+&lt;li&gt;软件设置：&lt;a class=&#34;link&#34; href=&#34;https://picgo.github.io/PicGo-Doc/zh/guide/config.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击这里&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;macOS中，PicGo会出现在顶边栏，直接拖拽图片到图标中即可上传，之后即可粘贴到markdown文件中（也可以直接上传剪切板中的文件）。注意：若要连续上传，需要在两张图片之间有空格。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![](https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+雪中的女人&lt;/p&gt;
+&lt;h2 id=&#34;markdown常用命令&#34;&gt;Markdown常用命令&lt;/h2&gt;
+&lt;h3 id=&#34;插入超链接&#34;&gt;插入超链接&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;[超链接文字](url)&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;插入图片&#34;&gt;插入图片&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt; ![显示文字](文件路径)&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;加粗&#34;&gt;加粗&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;**文字**&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;倾斜&#34;&gt;倾斜&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;*文字*&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Personal blog: Hugo stack theme setup</title>
+        <link>https://feeyutopia.github.io/p/personal-blog-hugo-stack-theme-setup/</link>
+        <pubDate>Mon, 06 Mar 2023 22:41:53 +0300</pubDate>
+        
+        <guid>https://feeyutopia.github.io/p/personal-blog-hugo-stack-theme-setup/</guid>
+        <description>&lt;h2 id=&#34;frontmatter-example&#34;&gt;FrontMatter Example&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;How to use hugo to create personal blog&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;date&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2021&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;12&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;02&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;T13&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;42&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;48&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;08&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;00&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;images&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;unsplash&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;photo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1593339595642&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;235&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dbd27e7f0&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ixlib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;rb&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;4.0.3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ixid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;auto&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;format&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;crop&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;w&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3868&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;q&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;80&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;license&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hidden&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;comments&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;draft&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;true&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;categories&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;tags&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;tech&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;life&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;如何在本地生成预览网页&#34;&gt;如何在本地生成预览网页&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;server&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;t&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stack&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;buildDrafts&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#在根目录下&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;how-to-post-new-blogs&#34;&gt;How to post new blogs&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;post&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FileName&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;md&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#在根目录下&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stack&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;baseUrl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://feeyutopia.github.io/&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;buildDrafts&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;public&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;add&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;commit&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;m&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;init commit&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;push&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;u&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;origin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;push&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;f&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;origin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;how-to-use-links-in-articles-end&#34;&gt;How to use links in article&amp;rsquo;s end&lt;/h2&gt;
+&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-transfer-to-other-devices-macos&#34;&gt;How to transfer to other devices (MacOS)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;复制根目录文件夹 &lt;code&gt;/Users/lockscreen username/github username&lt;/code&gt; 到新设备的相同根目录下 &lt;code&gt;/Users/lockscreen username/github username&lt;/code&gt; (锁屏用户名若不相同，设置会相对麻烦一点，不过基本一致)&lt;/li&gt;
+&lt;li&gt;在本地生成 &lt;code&gt;hugo server -t hugo-theme-stack --buildDrafts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;初次推送到GitHub仓库，运行如下代码：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo --theme=hugo-theme-stack --baseUrl=&amp;#34;https://feeyutopia.github.io/&amp;#34; --buildDrafts
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;init commit&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://github.com/feeyutopia/feeyutopia.github.io.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;上面最后一行&lt;code&gt;git push -f origin main&lt;/code&gt;为强制执行，可在出现 failed to push some refs to Error: failed to push some refs to 时操作&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;若出现&lt;code&gt;fatal: Authentication failed for &#39;https://github.com/feeyutopia/feeyutopia.github.io.git/&#39;&lt;/code&gt;，可用获取&lt;code&gt;Personal token&lt;/code&gt;的方式解决（&lt;a class=&#34;link&#34; href=&#34;https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;看这里&lt;/a&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;work-to-be-continued&#34;&gt;Work to be continued&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;添加评论区    ❌ （舍弃，不实用）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把文章全部导上去&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;备份Hugo所有文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Actions 自动部署    ❌ （待操作）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;加入盘古之白   ❌ （舍弃，不实用）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo setup (3): Work to be continued</title>
         <link>https://feeyutopia.github.io/p/hugo-setup-3-work-to-be-continued/</link>
         <pubDate>Sat, 04 Mar 2023 22:49:17 +0300</pubDate>
@@ -86,21 +286,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
         </item>
         <item>
-        <title>About</title>
-        <link>https://feeyutopia.github.io/about/</link>
-        <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://feeyutopia.github.io/about/</guid>
-        <description>&lt;p&gt;丑陋与美好，闪光与沉闷，都鲜活地存在过。&lt;/p&gt;
-&lt;p&gt;梦想写一本《沉郁集》，扉页写着：To my unsettled soul。&lt;/p&gt;
-&lt;p&gt;墓碑上留下一句话：他是一个真实的人。&lt;/p&gt;
-&lt;p&gt; 
- &lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;ONLY&lt;/strong&gt; way to find me is to send me an email:&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:clark.zhoucy@gmail.com&#34; &gt;clark.zhoucy@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Find the things you&#39;re angry for</title>
         <link>https://feeyutopia.github.io/p/find-the-things-youre-angry-for/</link>
         <pubDate>Sun, 12 Feb 2023 21:08:12 +0300</pubDate>
@@ -146,11 +331,20 @@
         
         <guid>https://feeyutopia.github.io/p/%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%96%E7%95%8C%E7%AA%81%E7%84%B6%E6%B8%85%E6%99%B0/</guid>
         <description>&lt;p&gt;这一刻，我的注意力高度集中，神志清醒，周围时间变得缓慢。&lt;/p&gt;
-&lt;p&gt;这一刻，就是当我得知实验室的师兄已经拿到了海外优青，而他的老婆，也是我的师姐，也拿到了海外优青。他们也即将入职国内top5的正教授。&lt;/p&gt;
+&lt;p&gt;这一刻，就是当我得知实验室的师兄已经拿到了海外优青，而他的老婆，算是我的师姐，也拿到了海外优青。他们也即将入职国内top5的教授。&lt;/p&gt;
 &lt;p&gt;上一次同时见他们两人还是中秋聚餐的时候，当时还只是两个博后，大家一起聊着天。没想到现在就是两个海外优青了。这种身份上的转变不禁让我对他们的态度也发生了微妙的变化。&lt;/p&gt;
 &lt;p&gt;这些事情很早就都听说过，只是当真正发生并且发生在我身上的时候，还是有点恍惚。它不仅让我对大家都心之所向的海外优青有了更清晰的认识，也让我对世界上的某些规则和规律有了切身感受。我思索着，是世界本就这样，只是我现在才发现，还是只有我看到了这些？不得答案。&lt;/p&gt;
 &lt;p&gt;大鹏一日随风起，扶摇直上九万里。&lt;/p&gt;
 &lt;p&gt;个中体会，不足为外人道也。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Update：&lt;/p&gt;
+&lt;p&gt;2023.3.28&lt;/p&gt;
+&lt;p&gt;今天全组人一起Ramadan聚餐同时farewell师兄师姐。他们过两天就回国了，临别的时候，老板和师兄都说了一段临别感言，大多数在我看来是客气式的感谢和告别。他们都说了两点，我们这个平台是一个可以实现梦想的平台，我们要笑着面对各种failure和rejection。Pfuuuu，nothing new but these successful guys  keep saying the old staff.&lt;/p&gt;
+&lt;p&gt;满是祝贺和道喜， 当然我也举杯恭喜，但是空洞的话语无法承载别人不知道的努力以及未曾经历过的坎坷。&lt;/p&gt;
+&lt;p&gt;现在，我只想记录下我的真实感受。&lt;/p&gt;
+&lt;p&gt;他们就这样回去了。一个在国外八年博后，一个在国外四年博后。整个吃饭过程中，他们的谦虚，严谨和微笑是有过人生阅历的表现，他们让别人觉得“舒服又真诚”，相信在国内也能很好地适应。我并不知道他们是否真的热爱，但是至少表现出来是“我喜欢我做的工作，同时我也做的很好”。真的是这样吗？我所知道的一些细节让我觉得这不是真的，又让我觉得是真的。对他们而言，可能也是两者都有吧。&lt;/p&gt;
+&lt;p&gt;经历过这个晚上，我依然不知道我是否喜欢他们这种生活。可是我知道，我曾经幻想过的生活真真切切地发生在了我身边，我也得以窥见它更加真实的一面，而这本身就会让我未来做选择时更加坚定。&lt;/p&gt;
+&lt;p&gt;对他们而言，那些闪光和沉闷的海外博后生活，那些丑陋与美好的人生选择，终于落幕了。可是他们新的人生旅程才刚刚开始。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -280,9 +474,8 @@
         <pubDate>Fri, 08 Jul 2022 20:42:25 +0300</pubDate>
         
         <guid>https://feeyutopia.github.io/p/home-ideal-home-philosophy-limit/</guid>
-        <description>&lt;p&gt;花了将近一个半小时，只为了找一张照片，是我曾经只看到一眼就突然动心，并且过了将近半年仍能想起来的照片，心之所向，莫过如此。
- &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/FqeW2LaaAAEDBA_?format=jpg&amp;amp;name=large&#34;
+        <description>&lt;p&gt;花了将近一个半小时，只为了找一张照片，是我曾经只看到一眼就突然动心，并且过了将近半年仍能想起来的照片，心之所向，莫过如此。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/FqeW2LaaAAEDBA_.jpeg&#34;
 	
 	
 	
@@ -291,17 +484,16 @@
 		alt=&#34;Ideal home&#34;
 	
 	
-&gt;
-&lt;code&gt;Ideal home&lt;/code&gt;
- &lt;/p&gt;
+&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;一座独立的小岛，一个小别墅，一个灯塔，一个白房子，一个红房子，有花有草，有海有风。看似独立且与世隔绝，但是仍在左边留下了一条海上岩石搭起的路。这张照片我最喜欢的就是这条路，它代表了我与周围世界的联结。这条路可以通向另一座岛，可以通向岸边，也可能搭到一半就断了，也可能只是让我能到达海的另一边。&lt;/p&gt;
 &lt;p&gt;这像极了我对自我世界与周围世界的想象，自给自足，自得其乐，近可守望相助，退可相看不厌。&lt;/p&gt;
 &lt;p&gt;配色也是我很喜欢的配色，灰蓝色的天空，沉静，深邃，一望无际的深蓝色海面几乎将原本的压抑感稀释为无；岛上青黄不接，那浅浅的一层绿色却也在这种低沉的气氛中点缀了象征着希望的生机。&lt;/p&gt;
 &lt;p&gt;此生如果有幸能到这样一座岛上一游，才是真的此生无憾。估计一到这座岛上，我会立即产生放下一切的念头，家庭，职务，存款，交际，这一切都将不复存在。
  &lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;对一句话一直耿耿于怀，但是找了很久都记不起来是在哪里读到的这句话，原话已经记不得了，大致意思是，哲学家想到之后，你才能想到；哲学家明白之后，你才会明白；我们现在的想法都是别人吃剩下的营养价值很低的东西，因为营养价值越高则门槛越高，知道的人也就越少。&lt;/p&gt;
-&lt;p&gt;笛卡尔也说过类似的话，“可是，我在学生时期就已经知道，我们能够想像得出来的任何一种意见，不管多么离奇古怪，多么难以置信，全都有某个哲学家说过。‘’&lt;/p&gt;
+&lt;p&gt;对一句话一直耿耿于怀，但是找了很久都记不起来是在哪里读到的。原话已经记不得了，大致意思是：哲学家想到之后，你才能想到；哲学家明白之后，你才会明白；我们现在的想法都是别人吃剩下的营养价值很低的东西，因为营养价值越高则门槛越高，知道的人也就越少。&lt;/p&gt;
+&lt;p&gt;笛卡尔也说过类似的话，“可是，我在学生时期就已经知道，我们能够想像得出来的任何一种意见，不管多么离奇古怪，多么难以置信，全都有某个哲学家说过。“&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -591,10 +783,15 @@
         
         <guid>https://feeyutopia.github.io/p/%E5%BF%AB%E8%AE%A9%E6%88%91%E5%93%AD-%E5%BF%AB%E8%AE%A9%E6%88%91%E7%AC%91/</guid>
         <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;快让我哭 快让我笑哇
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;快让我在这雪地上撒点儿野
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yi ye yi ye
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;因为我的病就是没有感觉
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;yi ye yi ye
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;快让我在这雪地上撒点儿野
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这首歌是我《恶心》看到后期时最喜欢的一首歌。我想起了自己看《恶心》时的生活。&lt;/p&gt;
 &lt;p&gt;中午听完讲座，想到的不是刚才为什么走神，漏听了哪些东西，而是中午吃什么。突然想起来，昨天好像就没有上超市买东西了。中午去超市买点好吃的，犒劳自己。来到超市，略显冷清，心中一喜，人少才是正常的，人多的时候整个空间都会变得扭曲，就是为了迎合来来往往更多的消费者。买了一盒牛肉，这盒牛肉是从一堆中挑选出来的。我看到它就有一种亲切感，它存在着，它一直在等着我。只有我到来时，它才会心安理得地离开这个货架。不是我选择了它，而是它选择了我。回家的时候，我选择坐车而不是步行。如果时间允许的话，我会选择步行的，这样还可以锻炼。可我下午还有讲座，我要尽快回到那个空间，那个存放着我所有电子设备的空间，没有它们我已经活不下去了，就连下午的讲座都已经听不成了。&lt;/p&gt;
@@ -604,18 +801,26 @@
 &lt;p&gt;步行回家的路上，我又打开了Apple music，这次不听巴赫，而是打开了李荣浩的《快让我在雪地上撒点儿野》。没有听崔健的版本，因为我喜欢李荣浩，崔健的旋律没有李荣浩的强，而且李荣浩开头弹的那段电吉他简直太棒了，我每次听到都简直兴奋地要跳起来。又闷骚又躁动的节奏谁能不喜欢呢，我常常这样想。快到家的时候，路上还下起了小雨。我知道这场雨是为了我才下的，它知道我听着这首歌太兴奋了，想让我降降火，但是又不能太大，因为怕把我淋感冒。我明白它的意思，可我不能照做，毕竟我还年轻，我要反抗，身上的斗争性被这场雨彻底召唤出来了。我身上的斗争性似乎一直都在，这是一种本能，只是平时我把它隐藏的很好，只有在需要它的时候它才会出来作祟。我不仅没有关掉音乐抓紧赶路的想法，反而把声音调到最大，而且还大声唱了出来。&lt;/p&gt;
 &lt;p&gt;小雨淅淅沥沥地下着，我慢慢悠悠地走着，歇斯底里地唱着：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“给我点肉，再给我点血，换回我的志如钢意如铁；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;快让我哭，快让我笑，快让我在雪地上撒点儿野。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我没穿着衣裳，也没穿着鞋，却感觉不到西北风的强和烈；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我不知道，我是走着还是跑着，因为我的病就是没有感觉；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;给我点儿刺激，大夫老爷；给我点儿爱我的护士姐姐；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;快让我哭，快让我笑，快让我在雪地上撒点儿野！”
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;给我点爱我的护士姐姐。
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我对这句歌词印象很深。大概是因为我想到了自己的一些事情。护士让我想到了自己之前去医院的经历，还有我看过的很多影视作品，她们总是那么温柔而又包容；姐姐让我想到了最近的学姐。她们都很包容。在她们眼中看来，社会上大多数的人都是病人，不然她们为什么会这么包容呢，我无法想象。或许我在她们眼中也是病人，只是碍于情面不好开口罢了。&lt;/p&gt;
 &lt;p&gt;回到家后，把淋湿的外套脱掉，从书包里拿出电脑，准备在沙发上看会视频。YouTube给我推送了一个张楚的视频，就是那个魔岩三杰。他隔着屏幕对着我喊，孤独的人是可耻的。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“这是一个恋爱的季节，大家应该相互交好，孤独的人是可耻的；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我喜欢鲜花，城市里应该有鲜花，即使被人摘掉，鲜花也应该长出来；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;可耻的人，他们反对生命，反对无聊；
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;为了美丽在风中，不惜在人们眼中变得枯萎”
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我听到这些话后，没什么感觉，不过就是年轻小男生的无病呻吟罢了。我不知道这首歌为什么会火，大概那个年代无聊的人会喜欢听这种文艺调调的歌吧。但我不怪他们，因为我曾经也是他们的一份子，我喜欢用一些文艺的东西来标榜自己的“文青”气质。我们一起谈论着王家卫和周杰伦，说着张爱玲和川端康成，其实心里面是很空的。这种时候过去了就不会再有了，反倒让人觉得怀念。我仔细翻着过去的记忆，实在找不出来是从哪个瞬间失去了这种年轻的感觉。&lt;/p&gt;
 &lt;p&gt;洗漱过后，我躺在床上看了看书，看了看论坛上大家的发言，又看了看我收藏的个人博客，damn，这个女生的博客写的真好，每次我发现别人的博客时都觉得无比快乐，就像一片新大陆等着我去开发。我感叹一句，突然睡着了。&lt;/p&gt;
@@ -678,8 +883,7 @@
         <pubDate>Sun, 02 Jan 2022 20:00:38 +0300</pubDate>
         
         <guid>https://feeyutopia.github.io/p/%E7%9B%B8%E9%81%87%E4%B8%8E%E7%A6%BB%E5%88%AB/</guid>
-        <description>&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;韩国女生离开了
+        <description>&lt;p&gt;韩国女生离开了
  &lt;/p&gt;
 &lt;p&gt;西班牙小哥也离开了
  &lt;/p&gt;
@@ -943,7 +1147,7 @@
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;附编反抗者节译&#34;&gt;附编：《反抗者》节译&lt;/h2&gt;
 &lt;p&gt;“只要思想和信仰的长夜仍在蔓延，一声无思想的欢叫，其意义即便巨大，也不能被理解。”&lt;/p&gt;
-&lt;p&gt;PS：斜体字为书中引用，加粗字为此段评论。&lt;/p&gt;
+&lt;p&gt;PS：斜体字为书中引用。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1075,7 +1279,7 @@
 &lt;p&gt;仰仗现代科技，此类工具就像苦闷的同义词一样繁多。它们的功能就是让你们淡忘时间的过剩，它们的丰富昭然若揭。同样昭然若揭的还有你们的购买力之功能，在购买力不断增强时，你们在这场典礼之后便会四散而去，伴着这些完全为你们的父母和亲戚所掌控的工具所发出的轰鸣声。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;这是一幅预言性质的场景，一九八九级的女士们和先生们，因为你们正在步入这样一个世界，在这个世界里，关于事件的记录在矮化事件本身，这个由录像机、立体声播放机、遥控器、运动服和健身器械构成的世界，这些东西的目的就是让你们去重新体验你们自己或是他人的过去：罐装的欢乐在祈求鲜肉。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;一切能显示出规则的东西均孕育着苦闷。这在很大程度上都与金钱有关，既指钞票也指钞票的拥有者。当然，我并不打算将贫穷说成一种逃离苦闷的手段，虽然方济各似乎正是这么做的。然而，尽管我们为贫困所包围，在这个视频基督教的时代，创建一些新的苦修教会的念头仍不会赢得太多赞同。此外，你们这些喜欢别出心裁的年轻人，你们总是更愿意到南部非洲的某地去行善，而不是帮助邻居，你们总是更情愿放弃一杯你们爱喝的苏打水，而不是走进贫民区。因此，无人建议你们甘于清贫。能给你们的唯一建议，就是要对钱怀有更多的惧怕，因为你们账户上的零也可能变成你们精神上的零。&lt;/p&gt;
-&lt;p&gt;说到贫困，苦闷就是贫困之苦难中最残酷的部分，是有一些更为激进的摆脱贫困的方式，比如暴力起义或吸毒。这两种方式都是临时手段，因为贫困的痛苦是无边的；由于痛苦是无边的，这两种手段都代价很高。***就整体而言，一个人把海洛因注入他的静脉，其原因与你们购买一盒录像带大致相同，即逃避时间的过剩。***区别仅在于，他的开销大于他的获得，他的逃避手段和他试图逃避的对象一样是过剩的，他的手段也比你们的手段来得快。&lt;em&gt;&lt;strong&gt;就总体而言，注射器的针头和立体声播放器的按键这两者在触觉上造成的差异，就大致等同于时间作用于不同人时的不同感觉，时间富裕者会感觉强烈，而时间缺乏者则感觉迟钝。总之，无论富裕还是贫穷，你们迟早都会因为时间的过剩而痛苦。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;说到贫困，苦闷就是贫困之苦难中最残酷的部分，是有一些更为激进的摆脱贫困的方式，比如暴力起义或吸毒。这两种方式都是临时手段，因为贫困的痛苦是无边的；由于痛苦是无边的，这两种手段都代价很高。&lt;em&gt;&lt;strong&gt;就整体而言，一个人把海洛因注入他的静脉，其原因与你们购买一盒录像带大致相同，即逃避时间的过剩。&lt;/strong&gt;&lt;/em&gt; 区别仅在于，他的开销大于他的获得，他的逃避手段和他试图逃避的对象一样是过剩的，他的手段也比你们的手段来得快。&lt;em&gt;&lt;strong&gt;就总体而言，注射器的针头和立体声播放器的按键这两者在触觉上造成的差异，就大致等同于时间作用于不同人时的不同感觉，时间富裕者会感觉强烈，而时间缺乏者则感觉迟钝。总之，无论富裕还是贫穷，你们迟早都会因为时间的过剩而痛苦。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;你们是潜在的时间富裕者，你们将来会厌倦你们的工作、你们的朋友、你们的伴侣和你们的情人，厌倦你们窗外的风景、你们室内的家具和壁纸，厌倦你们的思想和你们自己。相应地，你们也会试图寻求逃避的途径。除了前面提到的那些能使自己获得满足的方式之外，你们还可以变换工种、住所、公司、国家和气候，你们还可以沉醉于性爱、酒精、旅行、烹饪课、毒品和心理诊疗。&lt;/p&gt;
 &lt;p&gt;实际上，你们可以同时干所有这些事情，在某段时间里它们会起到作用的。当然，直到某一天，你们在你们的卧室里醒来，置身于新的家庭和不同的壁纸，置身于不同的国家和气候，看着你们的旅游公司和你们的心理医生寄来的大堆账单，怀着同样陈旧的情感面对从你们的窗户倾泻进来的日光。你们想穿上你们的便鞋，却发现没有鞋带，无法让你们步出熟悉的环境。依据你们的激情或是你们的年纪，你们要么惊慌失措，要么与这种熟悉的情感妥协，要么就再来一次繁琐的改变。&lt;/p&gt;
 &lt;p&gt;神经官能症和抑郁症将进入你们的词汇，各种药片将会进入你们的药盒。从根本上说，将生活变成对各种选项的不断寻找，变成工作、配偶和环境等等的不断变换，这并无任何不妥，前提就是你们能够提供赡养费，能够忍受如同一团乱麻的回忆。毕竟，这种窘境曾在银幕和浪漫诗歌中得到足够多的美化。但是困难在于，这种寻找很快就会变成一份全职工作，你们的选项需求也会成为一位吸毒者每日的固定剂量。&lt;/p&gt;
@@ -1330,6 +1534,7 @@
 &lt;p&gt;最后再附上《道德经》里我很喜欢的一句话吧。&lt;/p&gt;
 &lt;p&gt;上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之。不笑不足以为道&amp;hellip;&amp;hellip;道隐无名。&lt;/p&gt;
 &lt;p&gt;《论语·季氏》记载孔子说：“生而知之者，上也；学而知之者，次也；困而学之，又其次也；困而不学，民斯为下矣。”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Reference&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.thepaper.cn/asktopic_detail_10022117&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -1497,6 +1702,16 @@
 &lt;p&gt;其实关于kima为什么去告发他们两人，我的理解是：kima从来都是守规则的人，她其实能看出来这事情瞒下去最终也会被曝光，不如趁陷得还不深的时候就把他们都拉出来还不算晚，毕竟every game has rules, every system has rules. You don&amp;rsquo;t obey them，you&amp;rsquo;ll be killed by them。&lt;/p&gt;
 &lt;p&gt;对于Omar，其实他最后的结局我是很诧异的，毕竟也算是街头叱咤一时的人物，没想到最后就这样被一个毛头小子给当头一枪，令人唏嘘，不禁感叹：能苟就苟，低调做人。&lt;/p&gt;
 &lt;p&gt;另外，对于Bubbles，其实也有很多可以说的点，毕竟从开始的addict到最后的good man，这一路走来他也经历了很多，也成长了很多，他才是最能给我们普通人以力量的一个角色！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/FqegVX4aEAAYkWd.jpeg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Bubbles from The fire&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;像Herc这样，从抓毒贩到最后为毒贩打官司，这种转变乍一看很荒诞，但你如果跟着剧情一路走来，其实很合理：本身police work已经就没有什么好留恋的了，再加上自己即将被炒，所幸找个能挣钱的营生。&lt;/p&gt;
 &lt;p&gt;所以说这部剧好就好在这里，每个人单拿出来都有很多可圈可点之处，每个人都在自己的困境中奋力地活着，每个人都会在或大或小的时刻面临人性的抉择，this is fucking life!&lt;/p&gt;
 &lt;p&gt;期待以后二刷三刷的时候能有更多不同的视角来看待这部剧。&lt;/p&gt;
@@ -1738,7 +1953,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;不懂的时候喜欢装懂，懂的时候喜欢装不懂，虚伪的人生不需要解释&lt;/p&gt;
+&lt;p&gt;不懂的时候喜欢装懂，懂的时候喜欢装不懂，虚伪的人生不需要解释。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1774,11 +1989,11 @@
 </description>
         </item>
         <item>
-        <title>网站主页更新记录</title>
-        <link>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</link>
+        <title>网站主页更新记录（up to date）</title>
+        <link>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95up-to-date/</link>
         <pubDate>Wed, 01 Jan 2020 00:30:48 +0300</pubDate>
         
-        <guid>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</guid>
+        <guid>https://feeyutopia.github.io/p/%E7%BD%91%E7%AB%99%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95up-to-date/</guid>
         <description>&lt;p&gt;HOME&lt;/p&gt;
 &lt;p&gt;2022.08.10&lt;/p&gt;
 &lt;p&gt;从“此心安处是吾乡，人不轻狂枉少年。”改为“为活着，找快乐；为死去，学洒脱。”&lt;/p&gt;
@@ -1804,6 +2019,56 @@
         
         <guid>https://feeyutopia.github.io/archives/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>Death</title>
+        <link>https://feeyutopia.github.io/death/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://feeyutopia.github.io/death/</guid>
+        <description>&lt;p&gt;为活着，找快乐；为死去，学洒脱。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/20076653519_743aa9cede_o.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/29940728270_8ffd5c1cc8_o.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Me</title>
+        <link>https://feeyutopia.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://feeyutopia.github.io/about/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/beach.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Glommy sea&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Feeyutopia takes from &amp;ldquo;Free utopia&amp;rdquo;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;丑陋与美好，闪光与沉闷，都鲜活地存在过。&lt;/p&gt;
+&lt;p&gt;梦想写一本《沉郁集》，扉页写着：To my unsettled soul。&lt;/p&gt;
+&lt;p&gt;墓碑上留下一句话：他是一个真实的人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The &lt;strong&gt;ONLY&lt;/strong&gt; way to find me is to send me an email: &lt;a class=&#34;link&#34; href=&#34;mailto:clark.zhoucy@gmail.com&#34; &gt;clark.zhoucy@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Search</title>
