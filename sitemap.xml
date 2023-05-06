@@ -2,35 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://feeyutopia.github.io/p/english-words/</loc>
-    <lastmod>2023-04-15T09:48:51+03:00</lastmod>
+    <loc>https://feeyutopia.github.io/categories/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/post/</loc>
-    <lastmod>2023-04-15T09:48:51+03:00</lastmod>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%B7%E4%B9%B1%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E6%9C%89%E5%BA%8F%E4%B8%AA%E4%BD%93/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2023-05-06T13:50:00+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/truth-from-english-words/</loc>
     <lastmod>2023-04-15T09:48:51+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/categories/entertainment/</loc>
+    <lastmod>2023-03-31T10:53:53+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/tags/films/</loc>
+    <lastmod>2023-03-31T10:53:53+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E4%BA%94%E6%98%9F%E7%BE%8E%E5%89%A7%E6%8E%A8%E8%8D%90update/</loc>
+    <lastmod>2023-03-31T10:53:53+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E7%AA%81%E7%84%B6%E8%8E%B7%E5%BE%97%E5%8A%9B%E9%87%8F/</loc>
     <lastmod>2023-03-28T10:34:03+03:00</lastmod>
   </url><url>
-    <loc>https://feeyutopia.github.io/categories/</loc>
-    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/categories/entertainment/</loc>
-    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/tags/films/</loc>
-    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/tags/</loc>
-    <lastmod>2023-03-27T11:24:17+03:00</lastmod>
-  </url><url>
     <loc>https://feeyutopia.github.io/p/%E6%88%98%E4%BA%89%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     <lastmod>2023-03-27T11:24:17+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/p/%E4%BA%94%E6%98%9F%E7%BE%8E%E5%89%A7%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2023-03-24T10:53:53+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/markdown%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2023-03-07T09:30:11+03:00</lastmod>
@@ -42,9 +51,6 @@
     <lastmod>2023-03-06T22:41:53+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/find-the-things-youre-angry-for/</loc>
-    <lastmod>2023-02-12T21:08:12+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2023-02-12T21:08:12+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%96%E7%95%8C%E7%AA%81%E7%84%B6%E6%B8%85%E6%99%B0/</loc>
