@@ -114,7 +114,7 @@
     &gt;点击这里&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;macOS中，PicGo会出现在顶边栏，直接拖拽图片到图标中即可上传，之后即可粘贴到markdown文件中（也可以直接上传剪切板中的文件）。注意：若要连续上传，需要在两张图片之间有空格。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+&lt;h4 id=&#34;代码&#34;&gt;代码&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;center&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;img style=&amp;#34;border-radius: 0.5em;&amp;#34; 
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7564.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
