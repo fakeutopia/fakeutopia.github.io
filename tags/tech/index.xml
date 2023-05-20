@@ -151,6 +151,8 @@
 &lt;span style=&#34;color: orange&#34;&gt;前景色&lt;/span&gt;
 &lt;h4 id=&#34;背景色&#34;&gt;背景色&lt;/h4&gt;
 &lt;span style=&#34;background: orange&#34;&gt;背景色&lt;/span&gt;
+&lt;h3 id=&#34;综合&#34;&gt;综合&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style=&#34;background: pink&#34;&gt;&lt;span style=&#34;color: grey&#34;&gt;&lt;u&gt;&lt;del&gt;我是一段被用来展示的文字&lt;/del&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         </item>
         
