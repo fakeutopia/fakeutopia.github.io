@@ -79,15 +79,9 @@
 
     &lt;center&gt;
         &lt;img style=&#34;border-radius: 0.5em;&#34; 
-        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/2023.5.6.png&#34; width=&#34;30%&#34;&gt;
+        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/2023.5.6.png&#34; width=&#34;400&#34;&gt;
         &lt;div style=&#34;color: #999; padding: 5px;&#34;&gt;这是最近大火的《漫长的季节》里李庚希扮演的沈墨的眼神，充满了欲望与抗争&lt;/div&gt;
     &lt;/center&gt;
-
-    &lt;br&gt;
-    &lt;u&gt;下划线&lt;/u&gt;
-    &lt;span style=&#34;color: orange&#34;&gt;前景色&lt;/span&gt;
-    &lt;span style=&#34;background: orange&#34;&gt;背景色&lt;/span&gt;
-    &lt;del&gt;删除线&lt;/del&gt;
 
 </description>
         </item>
@@ -109,11 +103,11 @@
 
     &lt;center&gt;
         &lt;img style=&#34;border-radius: 0.5em;&#34; 
-        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7564.jpg&#34; width=&#34;60%&#34;&gt;
+        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7564.jpg&#34; width=&#34;40%&#34;&gt;
         &lt;div style=&#34;color: #999; padding: 0px;&#34;&gt;Flower bloom&lt;/div&gt;
         &lt;br&gt;
         &lt;img style=&#34;border-radius: 0.5em;&#34; 
-        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7726.jpg&#34; width=&#34;60%&#34;&gt;
+        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7726.jpg&#34; width=&#34;40%&#34;&gt;
         &lt;div style=&#34;color: #999; padding: 0px;&#34;&gt;Flower decay&lt;/div&gt;
     &lt;/center&gt;
 
@@ -327,7 +321,10 @@
 &lt;/ol&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;markdown-tips&#34;&gt;Markdown tips&lt;/h2&gt;
-&lt;h3 id=&#34;插入图片---github--picgo&#34;&gt;插入图片 - Github + PicGo&lt;/h3&gt;
+&lt;h3 id=&#34;html-前后缀&#34;&gt;HTML 前后缀&lt;/h3&gt;
+&lt;p&gt;注意：下面实际上是双括号&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{&amp;lt;codehtml&amp;gt;} code {&amp;lt;/codehtml&amp;gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;插入图片---github--picgo&#34;&gt;插入图片 - Github + PicGo&lt;/h3&gt;
 &lt;h4 id=&#34;why&#34;&gt;Why&lt;/h4&gt;
 &lt;p&gt;Github可以用作图床，PicGo可以用来自动上传图片以及自动生成链接到剪切板。&lt;/p&gt;
 &lt;h4 id=&#34;github配置&#34;&gt;GitHub配置&lt;/h4&gt;
@@ -342,26 +339,43 @@
     &gt;点击这里&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;macOS中，PicGo会出现在顶边栏，直接拖拽图片到图标中即可上传，之后即可粘贴到markdown文件中（也可以直接上传剪切板中的文件）。注意：若要连续上传，需要在两张图片之间有空格。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id=&#34;example&#34;&gt;Example&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![](https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;
-雪中的女人&lt;/p&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;center&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;img style=&amp;#34;border-radius: 0.5em;&amp;#34; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7564.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;div style=&amp;#34;color: #999; padding: 0px;&amp;#34;&amp;gt;Flower bloom&amp;lt;/div&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;br&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;img style=&amp;#34;border-radius: 0.5em;&amp;#34; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7726.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;div style=&amp;#34;color: #999; padding: 0px;&amp;#34;&amp;gt;Flower decay&amp;lt;/div&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;/center&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt; &lt;/p&gt;
+
+    &lt;center&gt;
+        &lt;img style=&#34;border-radius: 0.5em;&#34; 
+        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34; width=&#34;70%&#34;&gt;
+        &lt;div style=&#34;color: #999; padding: 0px;&#34;&gt;Woman in snow&lt;/div&gt;
+        &lt;br&gt;
+        &lt;img style=&#34;border-radius: 0.5em;&#34; 
+        src=&#34;https://images.unsplash.com/photo-1608845920884-3c88800feebc?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=2940&amp;q=80&#34; width=&#34;600&#34;&gt;
+        &lt;div style=&#34;color: #999; padding: 0px;&#34;&gt;Boston&lt;/div&gt;
+    &lt;/center&gt;
+
 &lt;h3 id=&#34;markdown常用命令&#34;&gt;Markdown常用命令&lt;/h3&gt;
 &lt;h4 id=&#34;插入超链接&#34;&gt;插入超链接&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;[超链接文字](url)&lt;/code&gt;&lt;/p&gt;
-&lt;h4 id=&#34;插入图片&#34;&gt;插入图片&lt;/h4&gt;
-&lt;p&gt;&lt;code&gt; ![显示文字](文件路径)&lt;/code&gt;&lt;/p&gt;
 &lt;h4 id=&#34;加粗&#34;&gt;加粗&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;**文字**&lt;/code&gt;&lt;/p&gt;
 &lt;h4 id=&#34;倾斜&#34;&gt;倾斜&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;*文字*&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;下划线&#34;&gt;下划线&lt;/h4&gt;
+&lt;u&gt;下划线&lt;/u&gt;
+&lt;h4 id=&#34;删除线&#34;&gt;删除线&lt;/h4&gt;
+&lt;del&gt;删除线&lt;/del&gt;
+&lt;h4 id=&#34;前景色&#34;&gt;前景色&lt;/h4&gt;
+&lt;span style=&#34;color: orange&#34;&gt;前景色&lt;/span&gt;
+&lt;h4 id=&#34;背景色&#34;&gt;背景色&lt;/h4&gt;
+&lt;span style=&#34;background: orange&#34;&gt;背景色&lt;/span&gt;
 </description>
         </item>
         <item>
