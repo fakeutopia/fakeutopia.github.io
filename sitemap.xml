@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://feeyutopia.github.io/tags/books/</loc>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
+  </url><url>
     <loc>https://feeyutopia.github.io/categories/</loc>
-    <lastmod>2023-05-23T22:57:39+03:00</lastmod>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/post/</loc>
-    <lastmod>2023-05-23T22:57:39+03:00</lastmod>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/categories/relief/</loc>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/tags/</loc>
-    <lastmod>2023-05-23T22:57:39+03:00</lastmod>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2023-05-23T22:57:39+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/p/%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%AF%B9%E4%B8%80%E4%BB%B6%E4%BA%8B%E5%A7%8B%E7%BB%88%E6%97%A0%E6%B3%95%E9%87%8A%E6%80%80/</loc>
-    <lastmod>2023-05-23T22:57:39+03:00</lastmod>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/</loc>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E7%88%B1%E5%A5%BD%E9%82%A3%E4%BA%9B%E5%9D%9A%E6%8C%81%E7%9A%84%E5%92%8C%E6%94%BE%E5%BC%83%E7%9A%84update/</loc>
+    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
+  </url><url>
+    <loc>https://feeyutopia.github.io/p/%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%AF%B9%E4%B8%80%E4%BB%B6%E4%BA%8B%E5%A7%8B%E7%BB%88%E6%97%A0%E6%B3%95%E9%87%8A%E6%80%80/</loc>
     <lastmod>2023-05-23T22:57:39+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/tags/%E7%94%B3%E8%AF%B7/</loc>
@@ -27,9 +36,6 @@
     <lastmod>2023-05-16T22:30:36+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/korean-study-log/</loc>
-    <lastmod>2023-05-16T22:30:36+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/categories/relief/</loc>
     <lastmod>2023-05-16T22:30:36+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E5%BD%93%E6%8B%92%E7%BB%9D%E4%BA%86%E6%88%91%E7%9A%84%E5%A5%B3%E7%94%9F%E7%94%B3%E4%B8%8Auk-top2%E5%85%A8%E5%A5%96%E5%8D%9A%E5%A3%AB/</loc>
@@ -162,9 +168,6 @@
     <lastmod>2021-12-28T19:52:28+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-12-19T19:34:21+03:00</lastmod>
-  </url><url>
-    <loc>https://feeyutopia.github.io/tags/books/</loc>
     <lastmod>2021-12-19T19:34:21+03:00</lastmod>
   </url><url>
     <loc>https://feeyutopia.github.io/p/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%80/</loc>
