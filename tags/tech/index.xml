@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tech on 沉郁</title>
-        <link>https://feeyutopia.github.io/tags/tech/</link>
+        <link>https://fakeutopia.github.io/tags/tech/</link>
         <description>Recent content in Tech on 沉郁</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 06 Mar 2023 22:41:53 +0300</lastBuildDate><atom:link href="https://feeyutopia.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Mar 2023 22:41:53 +0300</lastBuildDate><atom:link href="https://fakeutopia.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog: Hugo stack theme setup and Markdown</title>
-        <link>https://feeyutopia.github.io/p/blog-hugo-stack-theme-setup-and-markdown/</link>
+        <link>https://fakeutopia.github.io/p/blog-hugo-stack-theme-setup-and-markdown/</link>
         <pubDate>Mon, 06 Mar 2023 22:41:53 +0300</pubDate>
         
-        <guid>https://feeyutopia.github.io/p/blog-hugo-stack-theme-setup-and-markdown/</guid>
+        <guid>https://fakeutopia.github.io/p/blog-hugo-stack-theme-setup-and-markdown/</guid>
         <description>&lt;h2 id=&#34;frontmatter-example&#34;&gt;FrontMatter Example&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;How to use hugo to create personal blog&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;
@@ -30,7 +30,7 @@
 &lt;p&gt;新建post&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;post&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;FileName&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;md&lt;/span&gt; 
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;push到repo以生成网页&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stack&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;baseUrl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://feeyutopia.github.io/&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;buildDrafts&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;hugo&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;stack&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;baseUrl&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://fakeutopia.github.io/&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;buildDrafts&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;cd&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;public&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -58,18 +58,18 @@
 &lt;li&gt;在本地生成 &lt;code&gt;hugo server -t hugo-theme-stack --buildDrafts&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;初次推送到GitHub仓库，运行如下代码：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo --theme=hugo-theme-stack --baseUrl=&amp;#34;https://feeyutopia.github.io/&amp;#34; --buildDrafts
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo --theme=hugo-theme-stack --baseUrl=&amp;#34;https://fakeutopia.github.io/&amp;#34; --buildDrafts
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;init commit&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://github.com/feeyutopia/feeyutopia.github.io.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://github.com/fakeutopia/fakeutopia.github.io.git
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin main
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin main
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;上面最后一行&lt;code&gt;git push -f origin main&lt;/code&gt;为强制执行，可在出现 failed to push some refs to Error: failed to push some refs to 时操作&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;若出现&lt;code&gt;fatal: Authentication failed for &#39;https://github.com/feeyutopia/feeyutopia.github.io.git/&#39;&lt;/code&gt;，可用获取&lt;code&gt;Personal token&lt;/code&gt;的方式解决（&lt;a class=&#34;link&#34; href=&#34;https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;li&gt;若出现&lt;code&gt;fatal: Authentication failed for &#39;https://github.com/fakeutopia/fakeutopia.github.io.git/&#39;&lt;/code&gt;，可用获取&lt;code&gt;Personal token&lt;/code&gt;的方式解决（&lt;a class=&#34;link&#34; href=&#34;https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;看这里&lt;/a&gt;）&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -117,18 +117,18 @@
 &lt;h4 id=&#34;代码&#34;&gt;代码&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;center&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;img style=&amp;#34;border-radius: 0.5em;&amp;#34; 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7564.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/fakeutopia/blog-image/main/IMG_7564.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;div style=&amp;#34;color: #999; padding: 0px;&amp;#34;&amp;gt;Flower bloom&amp;lt;/div&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;br&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;img style=&amp;#34;border-radius: 0.5em;&amp;#34; 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/IMG_7726.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        src=&amp;#34;https://raw.githubusercontent.com/fakeutopia/blog-image/main/IMG_7726.jpg&amp;#34; width=&amp;#34;40%&amp;#34;&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &amp;lt;div style=&amp;#34;color: #999; padding: 0px;&amp;#34;&amp;gt;Flower decay&amp;lt;/div&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &amp;lt;/center&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt; &lt;/p&gt;
 
     &lt;center&gt;
         &lt;img style=&#34;border-radius: 0.5em;&#34; 
-        src=&#34;https://raw.githubusercontent.com/feeyutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34; width=&#34;70%&#34;&gt;
+        src=&#34;https://raw.githubusercontent.com/fakeutopia/blog-image/main/5308467276_58cc19e551_o.jpg&#34; width=&#34;70%&#34;&gt;
         &lt;div style=&#34;color: #999; padding: 0px;&#34;&gt;Woman in snow&lt;/div&gt;
         &lt;br&gt;
         &lt;img style=&#34;border-radius: 0.5em;&#34; 
