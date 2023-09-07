@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fakeutopia.github.io/categories/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/post/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/tags/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/tags/worries/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/p/%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%91%A8%E6%9C%89%E6%84%9F/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/categories/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2023-09-07T00:24:13-04:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</loc>
+    <lastmod>2023-08-03T17:51:16+03:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/p/%E5%BD%93%E6%88%91%E5%9C%A8%E8%B8%B1%E6%AD%A5%E6%97%B6%E6%88%91%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88/</loc>
+    <lastmod>2023-08-03T17:51:16+03:00</lastmod>
+  </url><url>
+    <loc>https://fakeutopia.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2023-08-03T17:51:16+03:00</lastmod>
+  </url><url>
     <loc>https://fakeutopia.github.io/tags/books/</loc>
     <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
-    <loc>https://fakeutopia.github.io/categories/</loc>
-    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/post/</loc>
-    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
-  </url><url>
     <loc>https://fakeutopia.github.io/categories/relief/</loc>
-    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/tags/</loc>
-    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/categories/%E4%BA%BA%E7%94%9F%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2023-06-11T17:46:09+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/</loc>
     <lastmod>2023-06-11T17:46:09+03:00</lastmod>
   </url><url>
     <loc>https://fakeutopia.github.io/p/%E7%88%B1%E5%A5%BD%E9%82%A3%E4%BA%9B%E5%9D%9A%E6%8C%81%E7%9A%84%E5%92%8C%E6%94%BE%E5%BC%83%E7%9A%84update/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2023-05-16T22:30:36+03:00</lastmod>
   </url><url>
     <loc>https://fakeutopia.github.io/p/%E5%BD%93%E6%8B%92%E7%BB%9D%E4%BA%86%E6%88%91%E7%9A%84%E5%A5%B3%E7%94%9F%E7%94%B3%E4%B8%8Auk-top2%E5%85%A8%E5%A5%96%E5%8D%9A%E5%A3%AB/</loc>
-    <lastmod>2023-05-12T00:53:16+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/categories/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2023-05-12T00:53:16+03:00</lastmod>
   </url><url>
     <loc>https://fakeutopia.github.io/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%B7%E4%B9%B1%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E6%9C%89%E5%BA%8F%E4%B8%AA%E4%BD%93/</loc>
@@ -88,9 +100,6 @@
   </url><url>
     <loc>https://fakeutopia.github.io/categories/%E7%A7%91%E7%A0%94/</loc>
     <lastmod>2022-08-08T21:02:34+03:00</lastmod>
-  </url><url>
-    <loc>https://fakeutopia.github.io/tags/worries/</loc>
-    <lastmod>2022-08-07T18:54:10+03:00</lastmod>
   </url><url>
     <loc>https://fakeutopia.github.io/p/%E5%BD%93%E5%B9%B4%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E5%A6%82%E4%BB%8A%E5%86%8D%E8%B5%B0%E4%B8%80%E9%81%8D/</loc>
     <lastmod>2022-08-07T18:54:10+03:00</lastmod>
